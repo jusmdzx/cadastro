@@ -28,10 +28,6 @@ O sistema vai além de um formulário simples, incluindo lógicas avançadas de 
 * `script.js`: Contém toda a lógica de validação, máscaras e CRUD.
 * `style.css`: Estilização global do sistema.
 
-## 📸 Screenshots
-
-*(Você pode adicionar prints do seu projeto aqui depois)*
-
 ## 🏁 Como Rodar o Projeto
 
 1.  Clone este repositório ou baixe os arquivos.
@@ -40,5 +36,7 @@ O sistema vai além de um formulário simples, incluindo lógicas avançadas de 
 4.  Clique em "Ver Usuários Cadastrados" para gerenciar os registros.
 
 ---
+## link
+**https://jusmdzx.github.io/cadastro/**
 
 Desenvolvido para fins de estudo e portfólio. 💜
